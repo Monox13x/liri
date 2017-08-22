@@ -1,0 +1,28 @@
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "liri hw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Monox13x/liri.git"
+  },
+  "keywords": [
+    "twitter",
+    "spotify",
+    "request"
+  ],
+  "author": "Andrew Ruiz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Monox13x/liri/issues"
+  },
+  "homepage": "https://github.com/Monox13x/liri#readme",
+  "dependencies": {
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.81.0"
+  }
+}
